@@ -1,0 +1,155 @@
+{
+  "groups": [
+    {
+      "group_id": 1,
+      "group_name": "Simpsons",
+      "members": [
+        {
+          "member_id": 1,
+          "member_first_name": "Homer",
+          "member_last_name": "Simpson",
+          "member_distance_covered": 33,
+          "member_active_minutes": 330
+        },
+        {
+          "member_id": 2,
+          "member_first_name": "Marge",
+          "member_last_name": "Simpson",
+          "member_distance_covered": 40,
+          "member_active_minutes": 200
+        },
+        {
+          "member_id": 3,
+          "member_first_name": "Bart",
+          "member_last_name": "Simpson",
+          "member_distance_covered": 50,
+          "member_active_minutes": 300
+        },
+        {
+          "member_id": 4,
+          "member_first_name": "Maggie",
+          "member_last_name": "Simpson",
+          "member_distance_covered": 25,
+          "member_active_minutes": 137.5
+        },
+        {
+          "member_id": 5,
+          "member_first_name": "Apu",
+          "member_last_name": "Nahasapeemapetilon",
+          "member_distance_covered": 300,
+          "member_active_minutes": 1125
+        },
+        {
+          "member_id": 6,
+          "member_first_name": "Jeff",
+          "member_last_name": "Albertson",
+          "member_distance_covered": 0,
+          "member_active_minutes": 0
+        }
+      ]
+    },
+    {
+      "group_id": 2,
+      "group_name": "Futurama",
+      "members": [
+        {
+          "member_id": 7,
+          "member_first_name": "Philip J.",
+          "member_last_name": "Fry",
+          "member_distance_covered": 45,
+          "member_active_minutes": 191.25
+        },
+        {
+          "member_id": 8,
+          "member_first_name": "Bender",
+          "member_last_name": "Rodriguez",
+          "member_distance_covered": 1000,
+          "member_active_minutes": 3000
+        },
+        {
+          "member_id": 9,
+          "member_first_name": "Amy",
+          "member_last_name": "Wong",
+          "member_distance_covered": 70,
+          "member_active_minutes": 385
+        },
+        {
+          "member_id": 10,
+          "member_first_name": "Turgana",
+          "member_last_name": "Leela",
+          "member_distance_covered": 80,
+          "member_active_minutes": 540
+        },
+        {
+          "member_id": 11,
+          "member_first_name": "Zapp",
+          "member_last_name": "Brannigan",
+          "member_distance_covered": 23,
+          "member_active_minutes": 184
+        },
+        {
+          "member_id": 12,
+          "member_first_name": "John",
+          "member_last_name": "Zoidberg",
+          "member_distance_covered": 15,
+          "member_active_minutes": 138.75
+        }
+      ]
+    },
+    {
+      "group_id": 3,
+      "group_name": "South Park",
+      "members": [
+        {
+          "member_id": 13,
+          "member_first_name": "Kenneth",
+          "member_last_name": "McCormick",
+          "member_distance_covered": 99,
+          "member_active_minutes": 396
+        },
+        {
+          "member_id": 14,
+          "member_first_name": "Eric",
+          "member_last_name": "Cartman",
+          "member_distance_covered": 5,
+          "member_active_minutes": 75
+        },
+        {
+          "member_id": 15,
+          "member_first_name": "Stan",
+          "member_last_name": "Marsh",
+          "member_distance_covered": 125,
+          "member_active_minutes": 531.25
+        },
+        {
+          "member_id": 16,
+          "member_first_name": "Kyle",
+          "member_last_name": "Brovlovski",
+          "member_distance_covered": 56,
+          "member_active_minutes": 336
+        },
+        {
+          "member_id": 17,
+          "member_first_name": "Randy",
+          "member_last_name": "Marsh",
+          "member_distance_covered": 48,
+          "member_active_minutes": 288
+        },
+        {
+          "member_id": 18,
+          "member_first_name": "Token",
+          "member_last_name": "Black",
+          "member_distance_covered": 94,
+          "member_active_minutes": 446.5
+        },
+        {
+          "member_id": 19,
+          "member_first_name": "Herbert",
+          "member_last_name": "Garrison",
+          "member_distance_covered": 200,
+          "member_active_minutes": 750
+        }
+      ]
+    }
+  ]
+}
